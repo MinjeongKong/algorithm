@@ -29,3 +29,4 @@ bin/
 .DS_Store
 /.idea/dbnavigator.xml
 /.idea/runConfigurations.xml
+/.idea/uiDesigner.xml
