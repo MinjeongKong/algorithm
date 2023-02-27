@@ -1,4 +1,4 @@
-package programmers.level2.파괴되지_않은_건물;
+package programmers.level3.파괴되지_않은_건물;
 
 class Solution {
     public int solution(int[][] board, int[][] skill) {
